@@ -1,7 +1,7 @@
 Drone Detection and Classification using 60 GHz Millimeter-Wave Radar
 =====================================================================
 
-Author: Maguette Gueye
+Author: mamadou samb
 Project: Simultaneous Monitoring and Identifying Drone Targets using mmWave Radar and CNN
 
 1. Objective
